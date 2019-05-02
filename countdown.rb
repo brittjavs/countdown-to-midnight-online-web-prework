@@ -9,5 +9,3 @@ def countdown
     break
   end
 end
-
-puts "HAPPY NEW YEAR!"
