@@ -9,7 +9,7 @@ def countdown(number)
 end
 
 def countdown_with_sleep(seconds)
-  puts countdown
+  while seconds > 0
   sleep 5
 end
   
